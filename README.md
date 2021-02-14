@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # yo
-- 📫 My Telegram -> https://t.me/ifanzilka
+- 📫 My Telegram -> https://t.me/odgigodji
 
 
 * [My Project School21](https://github.com/ifanzilka/My_Project_School21)	* [My Project School21](https://github.com/ifanzilka/My_Project_School21)
