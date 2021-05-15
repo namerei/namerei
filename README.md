@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# yo
+# About me
 - 📫 My Telegram -> https://t.me/odgigodji
 
 
