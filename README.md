@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-# About me
-- 📫 My Telegram -> https://t.me/odgigodji
-
+# Contacts
+Telegram: https://t.me/odgigodji
 
 * [My Project School21](https://github.com/ifanzilka/My_Project_School21)
 
