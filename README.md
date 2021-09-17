@@ -7,9 +7,9 @@ temp-converter: https://github.com/odgigodji/TConverter
 
 mini-game: https://github.com/odgigodji/Concentration
 
-weekly-finder: https://github.com/odgigodji/WeeklyFinder
-
 pass data to another view: https://github.com/odgigodji/PassDataProject
+
+weekly-finder: https://github.com/odgigodji/WeeklyFinder
 
 <!-- # Contacts
 Telegram: https://t.me/odgigodji -->
