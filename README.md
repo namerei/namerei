@@ -1,11 +1,11 @@
 ### Hi there 👋
 I'm interested in Swift and IOS development
 
-### Му first Apps on Swift 📱:
+<!-- ### Му first Apps on Swift 📱:
 
-mini-game: https://github.com/odgigodji/Concentration
+mini-game: https://github.com/odgigodji/Concentration -->
 
-weekly-finder: https://github.com/odgigodji/WeeklyFinder
+<!-- weekly-finder: https://github.com/odgigodji/WeeklyFinder -->
 
 <!-- temp-converter: https://github.com/odgigodji/TConverter -->
 
