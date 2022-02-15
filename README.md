@@ -1,16 +1,16 @@
 ### Hi there 👋
 I'm interested in Swift and IOS development
 
-### Му first Apps on Swift 📱:
+<!-- ### Му first Apps on Swift 📱:
 
 mini-game: https://github.com/odgigodji/Concentration
 
 weekly-finder: https://github.com/odgigodji/WeeklyFinder
 
 -----------------
-## Last on work(in progress...)
+## Last on work(in progress...) -->
 
-NewsAPI Application (UNDER WORK) : https://github.com/odgigodji/NewsApp.git
+NewsAPI Application on Swift(UNDER WORK) : https://github.com/odgigodji/NewsApp.git
 
 <!-- temp-converter: https://github.com/odgigodji/TConverter -->
 
