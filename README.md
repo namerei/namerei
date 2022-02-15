@@ -1,5 +1,5 @@
-### Hi there 👋
-I'm interested in Swift and IOS development
+### Hi there 👋 I'm interested in Swift and IOS development
+<!-- I'm interested in Swift and IOS development -->
 
 <!-- ### Му first Apps on Swift 📱:
 
