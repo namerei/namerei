@@ -10,7 +10,7 @@ weekly-finder: https://github.com/odgigodji/WeeklyFinder
 -----------------
 ## Last on work(in progress...) -->
 
-NewsAPI Application on Swift(UNDER WORK) : https://github.com/odgigodji/NewsApp.git
+<!-- NewsAPI Application on Swift(UNDER WORK) : https://github.com/odgigodji/NewsApp.git -->
 
 <!-- temp-converter: https://github.com/odgigodji/TConverter -->
 
