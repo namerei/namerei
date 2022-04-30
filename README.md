@@ -7,8 +7,8 @@ list of characters from Rick and Morty: https://github.com/odgigodji/RickAndMort
 
 <!-- weekly-finder: https://github.com/odgigodji/WeeklyFinder -->
 
------------------
-## Last on work(in progress...) -->
+<!-- ----------------- -->
+<!-- ## Last on work(in progress...) --> -->
 
 <!-- NewsAPI Application on Swift(UNDER WORK) : https://github.com/odgigodji/NewsApp.git -->
 
