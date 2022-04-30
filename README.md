@@ -1,9 +1,9 @@
 ### Hi there 👋  I'm interested in Swift and IOS development
 <!-- I'm interested in Swift and IOS development -->
 
-<!-- ### Му first Apps on Swift 📱:
+### Му first Apps on Swift 📱:
 
-mini-game: https://github.com/odgigodji/Concentration
+list of characters from Rick and Morty: https://github.com/odgigodji/RickAndMorty
 
 weekly-finder: https://github.com/odgigodji/WeeklyFinder
 
