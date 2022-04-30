@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋  I'm interested in Swift and IOS development -->
 <!-- I'm interested in Swift and IOS development -->
 
-### Му first Apps on Swift 📱:
+### Му Apps on Swift 📱:
 
 list of characters from Rick and Morty: https://github.com/odgigodji/RickAndMorty
 
