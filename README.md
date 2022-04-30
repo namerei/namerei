@@ -5,7 +5,7 @@
 
 list of characters from Rick and Morty: https://github.com/odgigodji/RickAndMorty
 
-weekly-finder: https://github.com/odgigodji/WeeklyFinder
+<!-- weekly-finder: https://github.com/odgigodji/WeeklyFinder -->
 
 -----------------
 ## Last on work(in progress...) -->
