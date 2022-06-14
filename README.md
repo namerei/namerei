@@ -2,10 +2,9 @@
 <!-- I'm interested in Swift and IOS development -->
 
 ### Му Apps on Swift 📱:
+Schedule for students: https://github.com/odgigodji/MySchedule
 
-list of characters from Rick and Morty: https://github.com/odgigodji/RickAndMorty
-
-schedule for students: https://github.com/odgigodji/MySchedule
+List of characters from Rick and Morty: https://github.com/odgigodji/RickAndMorty
 
 <!-- weekly-finder: https://github.com/odgigodji/WeeklyFinder -->
 
