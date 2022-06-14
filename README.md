@@ -5,7 +5,7 @@
 
 list of characters from Rick and Morty: https://github.com/odgigodji/RickAndMorty
 
-schedule for students: https://github.com/odgigodji/MySchedule (in work)
+schedule for students: https://github.com/odgigodji/MySchedule
 
 <!-- weekly-finder: https://github.com/odgigodji/WeeklyFinder -->
 
