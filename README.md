@@ -8,6 +8,8 @@ List of characters from Rick and Morty: https://github.com/odgigodji/RickAndMort
 
 Chose models in AR: https://github.com/odgigodji/ModelPickerApp
 
+GitHubFollowers: https://github.com/odgigodji/GHFollowers
+
 <!-- # Contacts
 Telegram: https://t.me/odgigodji -->
 <!-- Instagram: @nikitaevvv -->
