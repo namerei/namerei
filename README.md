@@ -10,10 +10,6 @@ Schedule for students: https://github.com/odgigodji/MySchedule
 
 <!-- Chose models in AR: https://github.com/odgigodji/ModelPickerApp -->
 
-.
-.
-.
-
 ### Мои учебные проекты в Школе 21 👨🏼‍💻:
 
  <ins> 2020 год: </ins>
@@ -35,9 +31,6 @@ Schedule for students: https://github.com/odgigodji/MySchedule
 Бассейн по С++: https://github.com/odgigodji/CPP
 
 Реализация стандартных stl контейнеров на С++: https://github.com/odgigodji/ft_containers
-
-.
-.
 
 ### Контакты
 Со мной можно связаться в Telegram: https://t.me/odgigodji
