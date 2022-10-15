@@ -28,7 +28,7 @@
 
 [Проект про кластеризацию](https://github.com/odgigodji/ft_services)
 
-[Проект raycasting на Cи](https://github.com/odgigodji/cub3D)
+[Raycasting на Cи](https://github.com/odgigodji/cub3D)
 
  <ins> 2020 год: </ins>
 
