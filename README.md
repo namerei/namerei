@@ -12,7 +12,7 @@ Schedule for students: https://github.com/odgigodji/MySchedule
 
 ### Мои учебные проекты в Школе 21 👨🏼‍💻:
 
-2020 год:
+ <ins> 2020 год: </ins>
 
 Реализация стандартных функций языка Си: https://github.com/odgigodji/libft
 
