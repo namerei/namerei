@@ -18,7 +18,7 @@ Schedule for students: https://github.com/odgigodji/MySchedule
 
 Реализация функции ft_printf на Си: https://github.com/odgigodji/ft_printf
 
-2021 год:
+ <ins> 2021 год: </ins>
 
 Проект raycasting на Cи: https://github.com/odgigodji/cub3D
 
