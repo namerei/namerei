@@ -14,10 +14,11 @@ Schedule for students: https://github.com/odgigodji/MySchedule
 
 2020 год:
 
-Libft: https://github.com/odgigodji/libft
+Реализация стандартных функций языка Си: https://github.com/odgigodji/libft
 
-ft_printf: https://github.com/odgigodji/ft_printf
+Реализация функции ft_printf на Си: https://github.com/odgigodji/ft_printf
 
+Проект raycasting на Cи: https://github.com/odgigodji/cub3D
 
 ### Контакты
 Со мной можно связаться в Telegram: https://t.me/odgigodji
