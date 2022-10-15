@@ -14,12 +14,6 @@
 
 ### Мои учебные проекты в Школе 21 👨🏼‍💻:
 
- <ins> 2020 год: </ins>
-
-Реализация стандартных функций языка Си: https://github.com/odgigodji/libft
-
-Реализация функции ft_printf на Си: https://github.com/odgigodji/ft_printf
-
  <ins> 2021 год: </ins>
 
 Проект raycasting на Cи: https://github.com/odgigodji/cub3D
@@ -33,6 +27,13 @@
 Бассейн по С++: https://github.com/odgigodji/CPP
 
 Реализация стандартных stl контейнеров на С++: https://github.com/odgigodji/ft_containers
+
+
+ <ins> 2020 год: </ins>
+
+Реализация стандартных функций языка Си: https://github.com/odgigodji/libft
+
+Реализация функции ft_printf на Си: https://github.com/odgigodji/ft_printf
 
 ### Контакты
 Со мной можно связаться в Telegram: https://t.me/odgigodji
