@@ -8,9 +8,11 @@
 
 Расписание с использованием Realm: https://github.com/odgigodji/MySchedule
 
+Выбор модели с AR и SwiftUI: https://github.com/odgigodji/ModelPickerApp 
+
+
 <!-- List of characters from Rick and Morty: https://github.com/odgigodji/RickAndMorty -->
 
-<!-- Chose models in AR: https://github.com/odgigodji/ModelPickerApp -->
 
 ### Мои учебные проекты в Школе 21 👨🏼‍💻:
 
