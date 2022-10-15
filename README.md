@@ -6,7 +6,7 @@
 
 [Поиск подписчиков с Github API](https://github.com/odgigodji/GHFollowers)
 
-[Расписание предметов с использованием Realm](https://github.com/odgigodji/MySchedule)
+[Студенческое расписание с использованием Realm](https://github.com/odgigodji/MySchedule)
 
 [Выбор модели с AR и SwiftUI](https://github.com/odgigodji/ModelPickerApp)
 
