@@ -18,24 +18,23 @@
 
  <ins> 2021 год: </ins>
 
-[Проект raycasting на Cи](https://github.com/odgigodji/cub3D)
-
-[Проект про кластеризацию](https://github.com/odgigodji/ft_services)
-
-[О многопоточности на Си](https://github.com/odgigodji/philoshophers)
-
-[Реализация bash на Си](https://github.com/odgigodji/minishell)
+[Реализация стандартных stl контейнеров на С++](https://github.com/odgigodji/ft_containers)
 
 ["Бассейн" по С++](https://github.com/odgigodji/CPP)
 
-[Реализация стандартных stl контейнеров на С++](https://github.com/odgigodji/ft_containers)
+[Реализация bash на Си](https://github.com/odgigodji/minishell)
 
+[О многопоточности на Си](https://github.com/odgigodji/philoshophers)
+
+[Проект про кластеризацию](https://github.com/odgigodji/ft_services)
+
+[Проект raycasting на Cи](https://github.com/odgigodji/cub3D)
 
  <ins> 2020 год: </ins>
 
-[Реализация стандартных функций языка Си](https://github.com/odgigodji/libft)
-
 [Реализация функции ft_printf на Си](https://github.com/odgigodji/ft_printf)
+
+[Реализация стандартных функций языка Си](https://github.com/odgigodji/libft)
 
 ### Контакты
 Со мной можно связаться в Telegram 📲: https://t.me/odgigodji
