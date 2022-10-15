@@ -22,13 +22,13 @@
 
 [Проект про кластеризацию](https://github.com/odgigodji/ft_services)
 
-О многопоточности на Си: https://github.com/odgigodji/philoshophers
+[О многопоточности на Си](https://github.com/odgigodji/philoshophers)
 
-Реализация bash на Си: https://github.com/odgigodji/minishell
+[Реализация bash на Си](https://github.com/odgigodji/minishell)
 
-"Бассейн" по С++: https://github.com/odgigodji/CPP
+["Бассейн" по С++](https://github.com/odgigodji/CPP)
 
-Реализация стандартных stl контейнеров на С++: https://github.com/odgigodji/ft_containers
+[Реализация стандартных stl контейнеров на С++](https://github.com/odgigodji/ft_containers)
 
 
  <ins> 2020 год: </ins>
