@@ -17,14 +17,13 @@
 ### Мои учебные проекты в Школе 21 👨🏼‍💻:
 
  <ins> 2021 год: </ins>
+[Реализация bash на Си](https://github.com/odgigodji/minishell)
 
 [Проект raycasting на Cи](https://github.com/odgigodji/cub3D)
 
 [Проект про кластеризацию](https://github.com/odgigodji/ft_services)
 
 [О многопоточности на Си](https://github.com/odgigodji/philoshophers)
-
-[Реализация bash на Си](https://github.com/odgigodji/minishell)
 
 ["Бассейн" по С++](https://github.com/odgigodji/CPP)
 
