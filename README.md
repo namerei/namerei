@@ -1,7 +1,7 @@
 ### Привет 👋 Я бывший студент Школы 21(School21/Ecole42) и IOS разработчик.
 #### Пишу на Swift и развиваюсь в разработке под IOS.
 
-### Мои приложения на swift 📱:
+### Мои приложения на Swift 📱:
 GitHubFollowers: https://github.com/odgigodji/GHFollowers
 
 Schedule for students: https://github.com/odgigodji/MySchedule
@@ -10,7 +10,7 @@ Schedule for students: https://github.com/odgigodji/MySchedule
 
 <!-- Chose models in AR: https://github.com/odgigodji/ModelPickerApp -->
 
-### Мои учебные проекты в Школе 21 👨🏼‍💻:
+#### Мои учебные проекты в Школе 21 👨🏼‍💻:
 
  <ins> 2020 год: </ins>
 
