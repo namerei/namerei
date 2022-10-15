@@ -11,6 +11,5 @@ Schedule for students: https://github.com/odgigodji/MySchedule
 
 <!-- Chose models in AR: https://github.com/odgigodji/ModelPickerApp -->
 
-# Contacts
-Со мной можно связаться в Telegram: https://t.me/odgigodji
+#### Со мной можно связаться в Telegram: https://t.me/odgigodji
 <!-- Instagram: @nikitaevvv -->
