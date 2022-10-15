@@ -2,9 +2,9 @@
 #### Пишу на Swift и развиваюсь в разработке под IOS.
 
 ### Мои приложения на Swift 📱:
-GitHubFollowers: https://github.com/odgigodji/GHFollowers
+Приложение с использованием Github API: https://github.com/odgigodji/GHFollowers
 
-Schedule for students: https://github.com/odgigodji/MySchedule
+Приложение - расписание с использованием Realm: https://github.com/odgigodji/MySchedule
 
 <!-- List of characters from Rick and Morty: https://github.com/odgigodji/RickAndMorty -->
 
