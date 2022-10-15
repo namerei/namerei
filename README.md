@@ -4,7 +4,7 @@
 ### Мои приложения на Swift 📱:
  <ins> 2022 год: </ins>
 
-Поиск подписчиков с Github API: https://github.com/odgigodji/GHFollowers
+[Поиск подписчиков с Github API](https://github.com/odgigodji/GHFollowers)
 
 Расписание с использованием Realm: https://github.com/odgigodji/MySchedule
 
