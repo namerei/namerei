@@ -6,9 +6,9 @@
 
 [Поиск подписчиков с Github API](https://github.com/odgigodji/GHFollowers)
 
-Расписание с использованием Realm: https://github.com/odgigodji/MySchedule
+[Расписание с использованием Realm](https://github.com/odgigodji/MySchedule)
 
-Выбор модели с AR и SwiftUI: https://github.com/odgigodji/ModelPickerApp 
+[Выбор модели с AR и SwiftUI](https://github.com/odgigodji/ModelPickerApp)
 
 
 <!-- List of characters from Rick and Morty: https://github.com/odgigodji/RickAndMorty -->
@@ -18,9 +18,9 @@
 
  <ins> 2021 год: </ins>
 
-Проект raycasting на Cи: https://github.com/odgigodji/cub3D
+[Проект raycasting на Cи](https://github.com/odgigodji/cub3D)
 
-Проект про кластеризацию: https://github.com/odgigodji/ft_services
+[Проект про кластеризацию](https://github.com/odgigodji/ft_services)
 
 О многопоточности на Си: https://github.com/odgigodji/philoshophers
 
