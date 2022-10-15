@@ -33,9 +33,9 @@
 
  <ins> 2020 год: </ins>
 
-Реализация стандартных функций языка Си: https://github.com/odgigodji/libft
+[Реализация стандартных функций языка Си](https://github.com/odgigodji/libft)
 
-Реализация функции ft_printf на Си: https://github.com/odgigodji/ft_printf
+[Реализация функции ft_printf на Си](https://github.com/odgigodji/ft_printf)
 
 ### Контакты
 Со мной можно связаться в Telegram: https://t.me/odgigodji
