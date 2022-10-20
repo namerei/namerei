@@ -10,6 +10,7 @@
 
 [Выбор модели с AR и SwiftUI](https://github.com/odgigodji/ModelPickerApp)
 
+[Парсинг персонажей Рика и Морти](https://github.com/odgigodji/RickAndMorty)
 
 <!-- List of characters from Rick and Morty: https://github.com/odgigodji/RickAndMorty -->
 
