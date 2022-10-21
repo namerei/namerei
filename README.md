@@ -35,7 +35,7 @@
 
  <ins> 2020 год: </ins>
 
-[Реализация функции ft_printf на Си](https://github.com/odgigodji/ft_printf)
+[Реализация функции printf на Си](https://github.com/odgigodji/ft_printf)
 
 [Реализация стандартных функций языка Си](https://github.com/odgigodji/libft)
 
