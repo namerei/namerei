@@ -24,7 +24,7 @@
 
 [Реализация стандартных stl контейнеров на С++](https://github.com/odgigodji/ft_containers)
 
-<!-- ["Бассейн" по С++](https://github.com/odgigodji/CPP) -->
+<!-- ["Бассейн" по С++](https://github.com/odgigodji/CPP)
 
 [Реализация bash на Си](https://github.com/odgigodji/minishell)
 
