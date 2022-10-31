@@ -16,8 +16,9 @@
 
 
 ### Мои учебные проекты в Школе 21 👨🏼‍💻:
+[клик](https://github.com/odgigodji/School21Projects.git)
 
- <ins> 2021 год: </ins>
+<!--  <ins> 2021 год: </ins>
 
 [API для todo-листа на C#](https://github.com/odgigodji/todoAPICSharp)
 
@@ -38,7 +39,7 @@
 [Реализация функции printf на Си](https://github.com/odgigodji/ft_printf)
 
 [Реализация стандартных функций языка Си](https://github.com/odgigodji/libft)
-
+ -->
 ### Заметки 📝  
 [Полезные горячие клавиши для Xcode и Google Chrome](https://github.com/odgigodji/hotkeys)
 
