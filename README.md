@@ -15,7 +15,7 @@
 <!-- List of characters from Rick and Morty: https://github.com/odgigodji/RickAndMorty -->
 
 
-### Мои учебные проекты в Школе 21 👨🏼‍💻:
+<!-- ### Мои учебные проекты в Школе 21 👨🏼‍💻:
 
 <ins> 2021 год: </ins>
 
@@ -37,7 +37,7 @@
 
 [Реализация функции printf на Си](https://github.com/odgigodji/ft_printf)
 
-[Реализация стандартных функций языка Си](https://github.com/odgigodji/libft)
+[Реализация стандартных функций языка Си](https://github.com/odgigodji/libft) -->
 
 ### Заметки 📝  
 [Полезные горячие клавиши для Xcode и Google Chrome](https://github.com/odgigodji/hotkeys)
