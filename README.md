@@ -2,11 +2,14 @@
 #### Пишу на Swift и развиваюсь в разработке под IOS. 
  -->
 ### Мои приложения на Swift 📱:
- <ins> 2022 год: </ins>
+
+ <ins> 2023 год: </ins>
 
 [Поиск и сохранение новостей с UserDefaults и newsapi](https://github.com/odgigodji/NewsAppMVVM.git)
 
 [Поиск подписчиков с Github API](https://github.com/odgigodji/GHFollowers)
+
+ <ins> 2022 год: </ins>
 
 [Расписание для учебы с использованием Realm](https://github.com/odgigodji/MySchedule)
 
