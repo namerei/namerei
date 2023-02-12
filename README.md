@@ -7,9 +7,9 @@
 
 [Поиск и сохранение новостей с UserDefaults и newsapi](https://github.com/odgigodji/NewsAppMVVM.git)
 
-[Поиск подписчиков с Github API](https://github.com/odgigodji/GHFollowers)
-
  <ins> 2022 год: </ins>
+ 
+ [Поиск подписчиков с Github API](https://github.com/odgigodji/GHFollowers)
 
 [Расписание для учебы с использованием Realm](https://github.com/odgigodji/MySchedule)
 
