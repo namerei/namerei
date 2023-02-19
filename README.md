@@ -5,7 +5,7 @@
 
  <ins> 2023 год: </ins>
  
-[Красивая верстка и анимации на MVP](https://github.com/odgigodji/SurfTraineeApp.git)
+[Красивая верстка и анимации в тестовом задании на MVP](https://github.com/odgigodji/SurfTraineeApp.git)
 
 [Поиск и сохранение новостей с UserDefaults и newsapi](https://github.com/odgigodji/NewsAppMVVM.git)
 
