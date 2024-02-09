@@ -3,6 +3,7 @@
  -->
 ### Мои приложения на Swift 📱:
 
+<!--
  <ins> 2023 год: </ins>
  
 [Красивая верстка и анимации в тестовом задании на MVP](https://github.com/odgigodji/SurfTraineeApp.git)
@@ -20,7 +21,7 @@
 <!-- [Парсинг персонажей Рика и Морти](https://github.com/odgigodji/RickAndMorty)  -->
 
 <!-- List of characters from Rick and Morty: https://github.com/odgigodji/RickAndMorty -->
-
+-->
 
 <!--  ### Мои учебные проекты в Школе 21 👨🏼‍💻:
 
