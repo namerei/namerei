@@ -48,7 +48,7 @@
 
 [Реализация стандартных функций языка Си](https://github.com/odgigodji/libft) -->
 
-![](../Screenshot 2024-04-29 at 17.10.27.png)
+![](https://github.com/namerei/namerei/Screenshot 2024-04-29 at 17.10.27.png)
 
 ### Заметки 📝  
 [Полезные горячие клавиши для Xcode и Google Chrome](https://github.com/odgigodji/hotkeys)
