@@ -54,5 +54,5 @@
 [Полезные горячие клавиши для Xcode и Google Chrome](https://github.com/odgigodji/hotkeys)
 
 ### Контакты
-Со мной можно связаться в Telegram 📲: https://t.me/odgigodji
+Со мной можно связаться в Telegram 📲: https://t.me/ggrubles
 <!-- Instagram: @nikitaevvv -->
